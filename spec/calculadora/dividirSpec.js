@@ -1,4 +1,4 @@
-describe("", function(){
+describe("Suite de teste de divisão", function(){
     var Calculadora = require('../../src/js/calculadora');
 
     it('deve retornar 2 para 6 e 3', function(){
